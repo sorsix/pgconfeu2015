@@ -3,6 +3,6 @@ Slides of PG Conf Europe 2015 talk "One National Health System - One Postgres Da
 
 **Download the slides in pdf here https://raw.githubusercontent.com/sorsix/pgconfeu2015/master/MojTerminPGConfEU.pdf**
 
-Link to the conference schedule page of the talk: http://www.postgresql.eu/events/schedule/pgconfeu2015/session/1070-one-national-health-system-one-postgres-database-architecture-and-performance-review/
+Conference schedule page of the talk: http://www.postgresql.eu/events/schedule/pgconfeu2015/session/1070-one-national-health-system-one-postgres-database-architecture-and-performance-review/
 
-Link to other PG Conf EU 2015 slides: https://wiki.postgresql.org/index.php?title=PostgreSQL_Conference_Europe_Talks_2015
+Other PG Conf EU 2015 slides: https://wiki.postgresql.org/index.php?title=PostgreSQL_Conference_Europe_Talks_2015
